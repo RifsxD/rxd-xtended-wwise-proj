@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\WoTB_Gun_Sound_New.wproj" DateLow="1658520048" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\WoTB_Gun_Sound_New.Rifs.wsettings" DateLow="1673097863" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Virtual Acoustics\Default Work Unit.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Triggers\Default Work Unit.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Switches\Default Work Unit.wwu" DateLow="1658508262" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\States\Default Work Unit.wwu" DateLow="1658508262" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\SoundBanks\Default Work Unit.wwu" DateLow="1658508264" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Queries\Factory Queries.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Queries\Default Work Unit.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Presets\Factory Spatial Audio.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Presets\Factory Reflect.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Presets\Default Work Unit.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Modulators\Default Work Unit.wwu" DateLow="1655228000" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Mixing Sessions\Default Work Unit.wwu" DateLow="1655228000" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1658684624" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1655228000" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Game Parameters\SRTTbacon.wwu" DateLow="1658510954" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Game Parameters\Default Work Unit.wwu" DateLow="1658508266" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Events\SRTTbacon.wwu" DateLow="1660998595" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Events\Default Work Unit.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Factory Reflect.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Factory McDSP Effects.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Filters.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Dynamics.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Delay.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Box Modeler.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Factory Effects.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Factory Auro Headphone.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Effects\Default Work Unit.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Conversion Settings\Default Work Unit.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Control Surface Sessions\Default Work Unit.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Audio Devices\Default Work Unit.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Attenuations\Default Work Unit.wwu" DateLow="1658510954" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1660886192" DateHigh="0"/>
+	<ValidationCacheItem File="F:\Github\WWISE-WOTB-GUNS-PROJ\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1660998595" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\WoTB_Gun_Sound_New.wproj" DateLow="1658520048" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\WoTB_Gun_Sound_New.Rifs.wsettings" DateLow="1673507031" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Virtual Acoustics\Default Work Unit.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Triggers\Default Work Unit.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Switches\Default Work Unit.wwu" DateLow="1658508262" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\States\Default Work Unit.wwu" DateLow="1658508262" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\SoundBanks\Default Work Unit.wwu" DateLow="1658508264" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Queries\Factory Queries.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Queries\Default Work Unit.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Presets\Factory Spatial Audio.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Presets\Factory Reflect.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Presets\Default Work Unit.wwu" DateLow="1655228004" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Modulators\Default Work Unit.wwu" DateLow="1655228000" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Mixing Sessions\Default Work Unit.wwu" DateLow="1655228000" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1658684624" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1655228000" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Game Parameters\SRTTbacon.wwu" DateLow="1658510954" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Game Parameters\Default Work Unit.wwu" DateLow="1658508266" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Events\SRTTbacon.wwu" DateLow="1660998595" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Events\Default Work Unit.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Factory Reflect.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Factory McDSP Effects.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Filters.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Dynamics.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Delay.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Factory iZotope Box Modeler.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Factory Effects.wwu" DateLow="1655228008" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Factory Auro Headphone.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Effects\Default Work Unit.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Conversion Settings\Default Work Unit.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Control Surface Sessions\Default Work Unit.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Audio Devices\Default Work Unit.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Attenuations\Default Work Unit.wwu" DateLow="1658510954" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1655228006" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1660886192" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1660998595" DateHigh="0"/>
+</ValidationCache>
