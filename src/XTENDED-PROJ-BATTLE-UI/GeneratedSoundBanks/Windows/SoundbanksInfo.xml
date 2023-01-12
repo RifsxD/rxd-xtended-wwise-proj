@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
 	<RootPaths>
-		<ProjectRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-PROJ-BATTLE-UI\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-PROJ-BATTLE-UI\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-PROJ-BATTLE-UI\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-PROJ-BATTLE-UI\</ProjectRoot>
+		<SourceFilesRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-PROJ-BATTLE-UI\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-PROJ-BATTLE-UI\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-PROJ-BATTLE-UI\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-PROJ-BATTLE-UI\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
+		<SoundBank Id="456382354" Language="SFX" Hash="2714584948">
+			<ObjectPath>\SoundBanks\Default Work Unit\reload</ObjectPath>
+			<ShortName>reload</ShortName>
+			<Path>reload.bnk</Path>
+			<IncludedEvents>
+				<Event Id="491672050" Name="GUI_notifications_FX_gun_reloaded" ObjectPath="\Events\Reload\GUI_notifications_FX_gun_reloaded" DurationType="OneShot" DurationMin="2.390646" DurationMax="3.145969">
+					<IncludedMemoryFiles>
+						<File Id="369824641" Language="SFX">
+							<ShortName>Loaded_2.wav</ShortName>
+							<Path>SFX\Loaded_2_3F75BDB9.wem</Path>
+						</File>
+						<File Id="989708862" Language="SFX">
+							<ShortName>Loaded_1.wav</ShortName>
+							<Path>SFX\Loaded_1_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
 		<SoundBank Id="586786179" Language="SFX">
 			<ObjectPath>\SoundBanks\Default Work Unit\RXD_BATTLE_UI</ObjectPath>
 			<ShortName>RXD_BATTLE_UI</ShortName>

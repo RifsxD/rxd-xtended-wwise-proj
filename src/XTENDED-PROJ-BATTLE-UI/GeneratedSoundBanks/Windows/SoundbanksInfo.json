@@ -5,16 +5,48 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "135",
   "RootPaths": {
-   "ProjectRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-PROJ-BATTLE-UI\\",
-   "SourceFilesRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-PROJ-BATTLE-UI\\.cache\\Windows\\",
-   "SoundBanksRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-PROJ-BATTLE-UI\\GeneratedSoundBanks\\Windows\\",
+   "ProjectRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-PROJ-BATTLE-UI\\",
+   "SourceFilesRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-PROJ-BATTLE-UI\\.cache\\Windows\\",
+   "SoundBanksRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-PROJ-BATTLE-UI\\GeneratedSoundBanks\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-PROJ-BATTLE-UI\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-PROJ-BATTLE-UI\\GeneratedSoundBanks\\Windows"
   },
   "DialogueEvents": [],
   "StreamedFiles": [],
   "MediaFilesNotInAnyBank": [],
   "SoundBanks": [
+   {
+    "Id": "456382354",
+    "Language": "SFX",
+    "Hash": "2714584948",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\reload",
+    "ShortName": "reload",
+    "Path": "reload.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "491672050",
+      "Name": "GUI_notifications_FX_gun_reloaded",
+      "ObjectPath": "\\Events\\Reload\\GUI_notifications_FX_gun_reloaded",
+      "DurationType": "OneShot",
+      "DurationMin": "2.390646",
+      "DurationMax": "3.145969",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "369824641",
+        "Language": "SFX",
+        "ShortName": "Loaded_2.wav",
+        "Path": "SFX\\Loaded_2_3F75BDB9.wem"
+       },
+       {
+        "Id": "989708862",
+        "Language": "SFX",
+        "ShortName": "Loaded_1.wav",
+        "Path": "SFX\\Loaded_1_3F75BDB9.wem"
+       }
+      ]
+     }
+    ]
+   },
    {
     "Id": "586786179",
     "Language": "SFX",
