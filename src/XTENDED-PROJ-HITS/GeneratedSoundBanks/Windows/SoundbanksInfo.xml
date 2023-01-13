@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
 	<RootPaths>
-		<ProjectRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-PROJ-HITS\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-PROJ-HITS\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-PROJ-HITS\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-PROJ-HITS\</ProjectRoot>
+		<SourceFilesRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-PROJ-HITS\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-PROJ-HITS\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-PROJ-HITS\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-PROJ-HITS\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>

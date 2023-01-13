@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "135",
   "RootPaths": {
-   "ProjectRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-WOTB-GUNS-PROJ\\",
-   "SourceFilesRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-WOTB-GUNS-PROJ\\.cache\\Windows\\",
-   "SoundBanksRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-WOTB-GUNS-PROJ\\GeneratedSoundBanks\\Windows\\",
+   "ProjectRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-WOTB-GUNS-PROJ\\",
+   "SourceFilesRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-WOTB-GUNS-PROJ\\.cache\\Windows\\",
+   "SoundBanksRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-WOTB-GUNS-PROJ\\GeneratedSoundBanks\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-WOTB-GUNS-PROJ\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-WOTB-GUNS-PROJ\\GeneratedSoundBanks\\Windows"
   },
   "DialogueEvents": [],
   "StreamedFiles": [],
@@ -26,7 +26,7 @@
    {
     "Id": "3854126194",
     "Language": "SFX",
-    "Hash": "1848790063",
+    "Hash": "1962756029",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\weapon_basic",
     "ShortName": "weapon_basic",
     "Path": "weapon_basic.bnk",
@@ -821,6 +821,19 @@
         "Path": "SFX\\play_wpn_mid_3p\\09_304449907\\05_709703496\\443951288_3F75BDB9.wem"
        }
       ]
+     },
+     {
+      "Id": "394955153",
+      "Name": "RXD_DEV",
+      "ObjectPath": "\\Events\\Default Work Unit\\RXD_DEV",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "795001820",
+        "Language": "SFX",
+        "ShortName": "RXD.DEV.wav",
+        "Path": "SFX\\RXD.DEV_3F75BDB9.wem"
+       }
+      ]
      }
     ],
     "GameParameters": [
@@ -844,7 +857,7 @@
    {
     "Id": "3893417221",
     "Language": "SFX",
-    "Hash": "2551774677",
+    "Hash": "3927047539",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\weapon",
     "ShortName": "weapon",
     "Path": "weapon.bnk",
@@ -1893,6 +1906,19 @@
         "Language": "SFX",
         "ShortName": "play_wpn_small_3p\\09_22944933\\05_1052788351\\427922675.wav",
         "Path": "SFX\\play_wpn_small_3p\\09_22944933\\05_1052788351\\427922675_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "394955153",
+      "Name": "RXD_DEV",
+      "ObjectPath": "\\Events\\Default Work Unit\\RXD_DEV",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "795001820",
+        "Language": "SFX",
+        "ShortName": "RXD.DEV.wav",
+        "Path": "SFX\\RXD.DEV_3F75BDB9.wem"
        }
       ]
      }

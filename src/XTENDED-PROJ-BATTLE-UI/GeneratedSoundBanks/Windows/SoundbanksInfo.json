@@ -18,7 +18,7 @@
    {
     "Id": "456382354",
     "Language": "SFX",
-    "Hash": "2714584948",
+    "Hash": "515808645",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\reload",
     "ShortName": "reload",
     "Path": "reload.bnk",
@@ -44,6 +44,29 @@
         "Path": "SFX\\Loaded_1_3F75BDB9.wem"
        }
       ]
+     },
+     {
+      "Id": "394955153",
+      "Name": "RXD_DEV",
+      "ObjectPath": "\\Events\\Hits\\RXD_DEV",
+      "DurationType": "OneShot",
+      "DurationMin": "1.471875",
+      "DurationMax": "1.471875",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "200535613",
+        "Language": "SFX",
+        "ShortName": "RXD.DEV.wav",
+        "Path": "SFX\\RXD.DEV_3F75BDB9.wem"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1419538075",
+      "Name": "RTPC_ext_settings_volume_master_fx",
+      "ObjectPath": "\\Game Parameters\\Settings\\RTPC_ext_settings_volume_master_fx"
      }
     ]
    },
@@ -65,7 +88,7 @@
    {
     "Id": "1501193180",
     "Language": "SFX",
-    "Hash": "3447749286",
+    "Hash": "4098798038",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\ui_battle",
     "ShortName": "ui_battle",
     "Path": "ui_battle.bnk",
@@ -391,6 +414,22 @@
         "Path": "SFX\\164928929_3F75BDB9.wem"
        }
       ]
+     },
+     {
+      "Id": "394955153",
+      "Name": "RXD_DEV",
+      "ObjectPath": "\\Events\\Hits\\RXD_DEV",
+      "DurationType": "OneShot",
+      "DurationMin": "1.471875",
+      "DurationMax": "1.471875",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "200535613",
+        "Language": "SFX",
+        "ShortName": "RXD.DEV.wav",
+        "Path": "SFX\\RXD.DEV_3F75BDB9.wem"
+       }
+      ]
      }
     ],
     "GameParameters": [
@@ -404,7 +443,7 @@
    {
     "Id": "3782024871",
     "Language": "SFX",
-    "Hash": "1747197586",
+    "Hash": "4093827241",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\music_battle",
     "ShortName": "music_battle",
     "Path": "music_battle.bnk",
@@ -448,13 +487,36 @@
         "Path": "SFX\\loop_yes_3F75BDB9.wem"
        }
       ]
+     },
+     {
+      "Id": "394955153",
+      "Name": "RXD_DEV",
+      "ObjectPath": "\\Events\\Hits\\RXD_DEV",
+      "DurationType": "OneShot",
+      "DurationMin": "1.471875",
+      "DurationMax": "1.471875",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "200535613",
+        "Language": "SFX",
+        "ShortName": "RXD.DEV.wav",
+        "Path": "SFX\\RXD.DEV_3F75BDB9.wem"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1419538075",
+      "Name": "RTPC_ext_settings_volume_master_fx",
+      "ObjectPath": "\\Game Parameters\\Settings\\RTPC_ext_settings_volume_master_fx"
      }
     ]
    },
    {
     "Id": "3888261067",
     "Language": "SFX",
-    "Hash": "3304686986",
+    "Hash": "1773517094",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\ui_battle_basic",
     "ShortName": "ui_battle_basic",
     "Path": "ui_battle_basic.bnk",
@@ -752,6 +814,22 @@
         "Path": "SFX\\zoom_out_3F75BDB9.wem"
        }
       ]
+     },
+     {
+      "Id": "394955153",
+      "Name": "RXD_DEV",
+      "ObjectPath": "\\Events\\Hits\\RXD_DEV",
+      "DurationType": "OneShot",
+      "DurationMin": "1.471875",
+      "DurationMax": "1.471875",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "200535613",
+        "Language": "SFX",
+        "ShortName": "RXD.DEV.wav",
+        "Path": "SFX\\RXD.DEV_3F75BDB9.wem"
+       }
+      ]
      }
     ],
     "GameParameters": [
@@ -770,7 +848,7 @@
    {
     "Id": "4223252685",
     "Language": "SFX",
-    "Hash": "1450395340",
+    "Hash": "3214877761",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\ui_chat_quick_commands",
     "ShortName": "ui_chat_quick_commands",
     "Path": "ui_chat_quick_commands.bnk",
@@ -998,6 +1076,29 @@
         "Path": "SFX\\479669981_3F75BDB9.wem"
        }
       ]
+     },
+     {
+      "Id": "394955153",
+      "Name": "RXD_DEV",
+      "ObjectPath": "\\Events\\Hits\\RXD_DEV",
+      "DurationType": "OneShot",
+      "DurationMin": "1.471875",
+      "DurationMax": "1.471875",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "200535613",
+        "Language": "SFX",
+        "ShortName": "RXD.DEV.wav",
+        "Path": "SFX\\RXD.DEV_3F75BDB9.wem"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1419538075",
+      "Name": "RTPC_ext_settings_volume_master_fx",
+      "ObjectPath": "\\Game Parameters\\Settings\\RTPC_ext_settings_volume_master_fx"
      }
     ]
    }

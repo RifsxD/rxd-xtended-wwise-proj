@@ -5,11 +5,11 @@
   "SchemaVersion": "12",
   "SoundbankVersion": "135",
   "RootPaths": {
-   "ProjectRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-PROJ-HITS\\",
-   "SourceFilesRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-PROJ-HITS\\.cache\\Windows\\",
-   "SoundBanksRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-PROJ-HITS\\GeneratedSoundBanks\\Windows\\",
+   "ProjectRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-PROJ-HITS\\",
+   "SourceFilesRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-PROJ-HITS\\.cache\\Windows\\",
+   "SoundBanksRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-PROJ-HITS\\GeneratedSoundBanks\\Windows\\",
    "ExternalSourcesInputFile": "",
-   "ExternalSourcesOutputRoot": "C:\\Users\\Rifs\\OneDrive\\Desktop\\xtd\\WWISE-PROJ-HITS\\GeneratedSoundBanks\\Windows"
+   "ExternalSourcesOutputRoot": "F:\\Github\\rxd-xtended-wwise-proj\\src\\XTENDED-PROJ-HITS\\GeneratedSoundBanks\\Windows"
   },
   "DialogueEvents": [],
   "StreamedFiles": [],

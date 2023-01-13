@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
 	<RootPaths>
-		<ProjectRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-WOTB-GUNS-PROJ\</ProjectRoot>
+		<SourceFilesRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-WOTB-GUNS-PROJ\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-WOTB-GUNS-PROJ\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\Rifs\OneDrive\Desktop\xtd\WWISE-WOTB-GUNS-PROJ\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>F:\Github\rxd-xtended-wwise-proj\src\XTENDED-WOTB-GUNS-PROJ\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -16,7 +16,7 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3854126194" Language="SFX" Hash="1848790063">
+		<SoundBank Id="3854126194" Language="SFX" Hash="1962756029">
 			<ObjectPath>\SoundBanks\Default Work Unit\weapon_basic</ObjectPath>
 			<ShortName>weapon_basic</ShortName>
 			<Path>weapon_basic.bnk</Path>
@@ -536,6 +536,14 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
+				<Event Id="394955153" Name="RXD_DEV" ObjectPath="\Events\Default Work Unit\RXD_DEV">
+					<IncludedMemoryFiles>
+						<File Id="795001820" Language="SFX">
+							<ShortName>RXD.DEV.wav</ShortName>
+							<Path>SFX\RXD.DEV_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
 			</IncludedEvents>
 			<GameParameters>
 				<GameParameter Id="328402328" Name="RTPC_int_distance_600m" ObjectPath="\Game Parameters\SRTTbacon\RTPC_int_distance_600m"/>
@@ -543,7 +551,7 @@
 				<GameParameter Id="2064811990" Name="RTPC_int_wpn_600m_npc" ObjectPath="\Game Parameters\SRTTbacon\RTPC_int_wpn_600m_npc"/>
 			</GameParameters>
 		</SoundBank>
-		<SoundBank Id="3893417221" Language="SFX" Hash="2551774677">
+		<SoundBank Id="3893417221" Language="SFX" Hash="3927047539">
 			<ObjectPath>\SoundBanks\Default Work Unit\weapon</ObjectPath>
 			<ShortName>weapon</ShortName>
 			<Path>weapon.bnk</Path>
@@ -1234,6 +1242,14 @@
 						<File Id="1029401978" Language="SFX">
 							<ShortName>play_wpn_small_3p\09_22944933\05_1052788351\427922675.wav</ShortName>
 							<Path>SFX\play_wpn_small_3p\09_22944933\05_1052788351\427922675_3F75BDB9.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="394955153" Name="RXD_DEV" ObjectPath="\Events\Default Work Unit\RXD_DEV">
+					<IncludedMemoryFiles>
+						<File Id="795001820" Language="SFX">
+							<ShortName>RXD.DEV.wav</ShortName>
+							<Path>SFX\RXD.DEV_3F75BDB9.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>

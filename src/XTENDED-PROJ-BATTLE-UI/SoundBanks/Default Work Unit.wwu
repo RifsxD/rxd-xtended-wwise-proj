@@ -10,6 +10,7 @@
 				</SoundBank>
 				<SoundBank Name="ui_battle" ID="{2CAFFB08-FADD-4E2C-A8E7-9528DB1F6A76}">
 					<ObjectInclusionList>
+						<ObjectRef Name="RXD_DEV" ID="{3EE472D9-53B8-400D-8A07-BA76A5E60164}" WorkUnitID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_fire_extinguisher" ID="{BC842092-D6BC-40DD-B73E-E1E831A70BBC}" WorkUnitID="{83217B51-31E8-45EC-8B80-E155BE5DB451}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_adrenalin_start" ID="{F83C57F8-5944-4125-B552-EBC49FDE05D2}" WorkUnitID="{83217B51-31E8-45EC-8B80-E155BE5DB451}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_auto_target_on" ID="{DE0B4F8E-2629-43C5-8723-3AAABCCBD11C}" WorkUnitID="{83217B51-31E8-45EC-8B80-E155BE5DB451}" Origin="Manual" Filter="7"/>
@@ -35,6 +36,7 @@
 				</SoundBank>
 				<SoundBank Name="ui_battle_basic" ID="{F71957AF-3066-4359-A034-B056D10CFFBC}">
 					<ObjectInclusionList>
+						<ObjectRef Name="RXD_DEV" ID="{3EE472D9-53B8-400D-8A07-BA76A5E60164}" WorkUnitID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_capture_point_PC" ID="{22738926-D7AE-409E-AF3E-EE799556DC46}" WorkUnitID="{83217B51-31E8-45EC-8B80-E155BE5DB451}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_capture_point_NPC" ID="{A27136B6-82D0-40FA-AF72-C7245C3DB2DF}" WorkUnitID="{83217B51-31E8-45EC-8B80-E155BE5DB451}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_zoom_out" ID="{03CF32C9-7627-415A-9889-B4F1A4D4B4BD}" WorkUnitID="{83217B51-31E8-45EC-8B80-E155BE5DB451}" Origin="Manual" Filter="7"/>
@@ -56,6 +58,7 @@
 				</SoundBank>
 				<SoundBank Name="ui_chat_quick_commands" ID="{D75C8124-C72E-4938-ACE8-55A27B51BA97}">
 					<ObjectInclusionList>
+						<ObjectRef Name="RXD_DEV" ID="{3EE472D9-53B8-400D-8A07-BA76A5E60164}" WorkUnitID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_quick_commands_attack_target" ID="{722B69ED-B0C8-40D1-BB44-D90C5C46D7E6}" WorkUnitID="{6827BAC1-235D-4078-B3A3-5D060BBD75B8}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_chat_chat_to_squad" ID="{5CA0D433-C068-415B-8934-5ACE0FF78522}" WorkUnitID="{33E5456B-63EA-4854-B0AF-E28C2CE956A3}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_chat_chat_to_all" ID="{F59F5248-E5AC-4226-BAB1-539F6C3AA1B3}" WorkUnitID="{33E5456B-63EA-4854-B0AF-E28C2CE956A3}" Origin="Manual" Filter="7"/>
@@ -76,6 +79,7 @@
 				</SoundBank>
 				<SoundBank Name="music_battle" ID="{DDB7F874-54F2-41D1-AF3A-C5851F1CDE29}">
 					<ObjectInclusionList>
+						<ObjectRef Name="RXD_DEV" ID="{3EE472D9-53B8-400D-8A07-BA76A5E60164}" WorkUnitID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_victory_NPC" ID="{DADF86D1-7761-422F-8320-D829F3261066}" WorkUnitID="{6A93E6CE-D126-47C1-B1DF-1B221855DE40}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_victory_PC" ID="{23D5FDFF-020F-4865-89D4-6576F00DDE58}" WorkUnitID="{6A93E6CE-D126-47C1-B1DF-1B221855DE40}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
@@ -84,6 +88,7 @@
 				</SoundBank>
 				<SoundBank Name="reload" ID="{4F227D14-BD93-45CD-B06A-7E57D380A3B7}">
 					<ObjectInclusionList>
+						<ObjectRef Name="RXD_DEV" ID="{3EE472D9-53B8-400D-8A07-BA76A5E60164}" WorkUnitID="{5D196377-55B1-4B35-B61E-70B8120B1A9C}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="GUI_notifications_FX_gun_reloaded" ID="{A5289ACB-3CFB-4E59-B3AF-AB1578C9FC75}" WorkUnitID="{90AC83D5-EE12-429D-A81D-D0B7095AFE95}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
